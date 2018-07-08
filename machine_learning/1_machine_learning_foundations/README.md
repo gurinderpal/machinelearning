@@ -5,7 +5,7 @@ Machine Learning Foundations
 
 | Week | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Week 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-1-welcome) | Welcome |
+| [Week 1](https://github.com/gurinderpal/machinelearning/tree/master/machine_learning/1_machine_learning_foundations#week-1-welcome) | Welcome |
 | [Week 2](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-2-regression-predicting-house-prices) | Regression: Predicting House Prices |
 | [Week 3](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-3-classification-analyzing-sentiment) | Classification: Analyzing Sentiment |
 | [Week 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-4-clustering-and-similarity-retrieving-documents) | Clustering and Similarity: Retrieving documents |
